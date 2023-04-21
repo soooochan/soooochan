@@ -33,6 +33,6 @@ Techs that I've used at least once
 
 
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=soochan010)](https://solved.ac/soochan010)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooochan&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
