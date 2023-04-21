@@ -7,7 +7,7 @@ Hi there! I'm a developer who tries to do my best in given tasks and tries to li
 <pre>
 <code>
 { 
-    "name": "kwak, soo chan",
+    <span style="color:green">"name" </span>: "kwak, soo chan",
     "position": "developer",
     "tech-stack": {
     "frontend": [
@@ -17,7 +17,7 @@ Hi there! I'm a developer who tries to do my best in given tasks and tries to li
     "database": ["mysql"],
     "server" : ["aws ec2","aws rds","docker"],
   },
-    "motto": "Don't look at the trees, look at the forest",
+    "motto": "don't look at the trees, look at the forest",
 
 }
 
