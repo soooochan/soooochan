@@ -26,7 +26,7 @@
     "database": ["mysql"],
     "server" : ["aws ec2","aws rds","docker"],
   },
-    "motto": "don't look at the trees, look at the forest",
+    "motto": "Try to see the forest, not the trees.",
 
 }
 
@@ -34,12 +34,19 @@
 </pre>
 
 
-Tech Stack 
-Techs that I've used at least once 
+
+|Date|Title|Organization|
+|------|------------|------------|
+|2023.04 ~ |Project|Hanium|
+|2023.04 ~ |Project|Hanium|
+|2023.03 ~ |IT club|UMC|
+|2022.07 ~ 2022.09|Intern|VisualCamp|
+|2021.07 ~ 2023.03|Undergrate Researcher|Duksung.W.D|
+|2020.09 ~ 2020.12|ICoding|volunteer|
+
+----
 
 
-
-|Github|Solved.ac|
-|------|-----|
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooochan&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)|[![GitHub Streak](https://streak-stats.demolab.com/?user=soooochan)](https://git.io/streak-stats)|
-
+|GitHub|Most Used Languages|
+|------|------------|
+|	<img src="https://github-readme-stats.vercel.app/api?username=soooochan&show_icons=true">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soooochan&layout=compact">|
