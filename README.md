@@ -4,24 +4,26 @@
 
 Hi there! I'm a developer who tries to do my best in given tasks and tries to live hard.
 
-{
-  "name": "kwak, soo chan",
+{ <br>
+  <p>"name": "kwak, soo chan",</p>
   <br>
-  "position": "developer",
+  <p>"position": "developer",</p>
   <br>
   "tech-stack": {
-    "frontend": [
+  <br>
+  <p> "frontend": [
+    <br>
           "javascript",
-    ],
+    ],<p>
     <br>
-    "backend": ["nodejs", "express"],
+    <p>"backend": ["nodejs", "express"],</p>
     <br>
-    "database": ["mysql"],
+    <p>"database": ["mysql"],</p>
     <br>
-    "server" : ["aws ec2","aws rds","docker"],
+    <p>"server" : ["aws ec2","aws rds","docker"],</p>
     <br>
   },
-  "motto": "Don't look at the trees, look at the forest",
+  <p>"motto": "Don't look at the trees, look at the forest",</p>
   <br>
 }
 
