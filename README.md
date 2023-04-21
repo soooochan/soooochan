@@ -1,8 +1,8 @@
 
-### :raised_hands:I'm a developer who tries to make a positive impact on the people around me 
+### :raised_hands: I'm a developer who tries to make a positive impact on the people around me 
 ----
 
-:star: Hi there! I'm a developer who tries to do my best in given tasks and tries to live hard.
+######:star: Hi there! I'm a developer who tries to do my best in given tasks and tries to live hard.
 
 <pre>
 <code>
