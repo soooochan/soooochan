@@ -39,9 +39,7 @@ Techs that I've used at least once
 
 
 
+|Github|Solved.ac|
+|------|-----|
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooochan&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)|[![GitHub Streak](https://streak-stats.demolab.com/?user=soooochan)](https://git.io/streak-stats)|
 
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=soochan010)](https://solved.ac/soochan010)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooochan&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
