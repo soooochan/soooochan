@@ -1,13 +1,13 @@
 
-### I'm a developer who tries to make a positive impact on the people around me 
+### :raised_hands:I'm a developer who tries to make a positive impact on the people around me 
 ----
 
-Hi there! I'm a developer who tries to do my best in given tasks and tries to live hard.
+:camel: Hi there! I'm a developer who tries to do my best in given tasks and tries to live hard.
 
 <pre>
 <code>
 { 
-    <span style="color:green">"name" </span>: "kwak, soo chan",
+    "name" : "kwak, soo chan",
     "position": "developer",
     "tech-stack": {
     "frontend": [
