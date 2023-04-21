@@ -7,18 +7,17 @@ Hi there! I'm a developer who tries to do my best in given tasks and tries to li
 <pre>
 <code>
 { 
-    <p>"name": "kwak, soo chan",</p>
-    <p>"position": "developer",</p>
+    "name": "kwak, soo chan",
+    "position": "developer",
     "tech-stack": {
-    <p> "frontend": [
+    "frontend": [
         "javascript",
     ],
-    </p>
-    <p>"backend": ["nodejs", "express"],</p>
-    <p>"database": ["mysql"],</p>
-    <p>"server" : ["aws ec2","aws rds","docker"],</p>
+    "backend": ["nodejs", "express"],
+    "database": ["mysql"],
+    "server" : ["aws ec2","aws rds","docker"],
   },
-    <p>"motto": "Don't look at the trees, look at the forest",</p>
+    "motto": "Don't look at the trees, look at the forest",
 
 }
 
