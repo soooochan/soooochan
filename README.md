@@ -47,6 +47,6 @@
 ----
 
 
-|GitHub|Most Used Languages|
-|------|------------|
+|Most Used Languages|
+|------------|
 |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soooochan&layout=compact">|
