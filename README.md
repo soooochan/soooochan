@@ -37,8 +37,7 @@
 
 |Date|Title|Organization|
 |------|------------|------------|
-|2023.07 ~ |Education|BOB|
-|2023.04 ~ |Project|Hanium|
+|2023.07 ~ |Education|BoB12|
 |2022.07 ~ 2022.09|Intern|VisualCamp|
 |2021.07 ~ 2023.03|Undergrate Researcher|Duksung.W.D|
 |2020.09 ~ 2020.12|ICoding|volunteer|
