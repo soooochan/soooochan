@@ -20,9 +20,9 @@
     "position": "developer",
     "tech-stack": {
     "frontend": [
-        "javascript",
+        "javascript",'React'
     ],
-    "backend": ["nodejs", "express"],
+    "backend": ["nodejs", "express", "Django", "Java Spring boot"],
     "database": ["mysql"],
     "server" : ["aws ec2","aws rds","docker"],
   },
@@ -38,6 +38,7 @@
 |Date|Title|Organization|
 |------|------------|------------|
 |2023.07 ~ |Education|BoB12|
+|2023.3~ 2023.11|Education|Hanium|
 |2022.07 ~ 2022.09|Intern|VisualCamp|
 |2021.07 ~ 2023.03|Undergrate Researcher|Duksung.W.D|
 |2020.09 ~ 2020.12|ICoding|volunteer|
