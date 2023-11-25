@@ -20,7 +20,7 @@
     "position": "developer",
     "tech-stack": {
     "frontend": [
-        "javascript",'React'
+        "javascript","React"
     ],
     "backend": ["nodejs", "express", "Django", "Java Spring boot"],
     "database": ["mysql"],
