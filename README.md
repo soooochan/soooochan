@@ -44,8 +44,3 @@
 |2020.09 ~ 2020.12|ICoding|volunteer|
 
 ----
-
-
-|Most Used Languages|
-|------------|
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soooochan&layout=compact">|
